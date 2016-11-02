@@ -1,34 +1,34 @@
-# Courses:smirk:
+# Awesome Courses:rocket:
 
-*Notes and solutions from various online courses*
+*Udacity, Coursera, edX ..等線上課程: 筆記 and 解法 *
 
-by Ty-Lucas Kelley
+by Michael Chen (Fork Ty-Lucas Kelley)
 
 ---
 
 ### Background
 
-There are tons of great, free, and online courses out there.
-In fact, there are so many that I will never be able to enjoy taking all of them.
-That's what inspired me to create this repository of course notes and solutions;
-while simple notes will never be a full replacement for a course experience,
-they can at least be a substitute that take much less time to go through.
+網路上有關學習 Computer Science course 資料很多, 趣味性, free.
+就所以資料太多, 反而容易迷茫於資料海(迷茫🐟？), 整理學習地圖, 專注學習吧:dart:
+小編受到 Ty-Lucas Kelley 大大啟發而創立這 Repository 來 open source.
+整理筆記是最好學習方法之一, 上完course整理Key point和解法, 是學習的過程.
+徵戰友跟我一起上course課程吧 :smile:
 
-I write very detailed notes and solutions for every class I take.
-I'm sharing them here with the hopes that others will:
+我寫的筆記玩樂性居多和解法是個人見解, 有issue可以提問!
+小編分享資料期許大大將會:
 
-1. Benefit from them and share them with others.
-2. Be inspired to share their own notes and solutions.
-3. Offer feedback and criticism, so I can improve my note-taking.
+1. 形成良性循環的分享精神
+2. 受到激勵也做自己的筆記 and 解法吧.
+3. 有回饋和討論, 這樣我才能改進我的思路
+4. No copy 解法來完成course課程, 我都打嘴砲來寫答案或不小心有意寫好幾層for迴圈.
 
-Despite this being public and on GitHub, I will not accept any pull requests.
-This is meant to be a repository of my notes and solutions, not a
-community-driven effort. I would encourage those who wish to contribute to
-create and share their own notes and solutions.
+儘管這在GitHub上公開, 不接受 Pull Requests.
+我鼓勵其他大大分享,貢獻, 創自己筆記 and 解法, 畢盡學到是自己.
 
-I will also mention that my notes are not always an exact
-representation of what was taught in the class. I sometimes remove what I feel
-is unnecessary and add what I feel is supplementary or helpful.
+有些course課當下是swift 2.2, 我updata可能是swift 3.0, 或是變動太快swift 4.0
+,我也來不及更新, 以我當下時間點學習為主:stuck_out_tongue_winking_eye: 
+
+Fork From Ty-Lucas Kelley 英文好直接看原出處, 別受我嘴砲影響 :stuck_out_tongue_winking_eye:
 
 Enjoy!
 
@@ -53,7 +53,7 @@ An example would be topic (Computer Science) -> provider (Udacity) -> course (CS
 ### Topics covered
 
 The focus will be on computer science, math, and engineering courses,
-but I have other interests as well, like music and history.
+but I have other interests as well, like music and dance.
 
 Below is a list of every course that is either done, in progress, or being taken
 soon.
