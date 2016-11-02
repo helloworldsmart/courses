@@ -1,6 +1,6 @@
 # Awesome Courses:rocket:
 
-*Udacity, Coursera, edX ..等線上課程: 筆記 and 解法 *
+*Udacity, Coursera, edX ..等線上課程: 筆記 and 解法*
 
 by Michael Chen (Fork Ty-Lucas Kelley)
 
