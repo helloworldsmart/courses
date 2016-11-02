@@ -1,4 +1,4 @@
-# Courses
+# Courses:smirk:
 
 *Notes and solutions from various online courses*
 
