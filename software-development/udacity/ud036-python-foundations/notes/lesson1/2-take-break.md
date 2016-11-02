@@ -11,12 +11,26 @@ Do you often spend too much time working at a computer? Let's write a program th
 We are going to build the program right away, so let's plan things out first. There are many ways to go about solving this problem. Here's how we will do it:
 
 We're going to write a program that keeps track of time, and does nothing until a certain amount of time has passed. It's execution steps will be:
-	
+
+我的解法:laughing:
+
+1. set variabe secondNumber to zero
+2. repeat add one second to secondNumber
+3. if secondNumber get 2 hours
+4. stop add one second to secondNumber And Play song
+5. Back to Step 1
+
+原作者
+
 1. Wait for 2 hours
 2. Open up the web browser, which plays a video reminding us to take a break
-3. Repeat these two steps indefinitely
+3. Repeat these two steps indefinitely 
 
-While the steps themselves may seem pretty straightforward, one question that jumps to mind is how we will open the web browser using Python.
+While the steps themselves may seem pretty straightforward, one question that jumps to mind is how we will open the web browser using Python. 
+ 
+Not find webbrowser function name
+
+import webbrowser 正解
 
 ###Using Documentation
 
@@ -83,6 +97,19 @@ Now we just need to wrap this in a loop and we're done with Project 1!
 		time.sleep(hours)
 		wb.open(url)
 		
+What the hell? 原編寫更好
+
+	import time
+	import webbrowser
+	
+	n = 0
+	hours = 2 * 60 * 60 #two hours
+	print(time.ctime())
+	while n < 3:
+		time.sleep(hours)
+		webbrowser.open("https://www.youtube.com/watch?v=NRRF8uqV9Wk")
+		n = n + 1
+
 We made it! Now, let's talk more about those Python modules that we imported, and how imports work.
 
 ###Python Standard Library
@@ -96,6 +123,12 @@ What's nice about being able to import files like `webbrowser` and use it to ope
 This practice of hiding implementation details is called *abstraction*, and it allows us to spend more time on the program we want to write.
 
 There's a ton of code in the Python standard library; read all about what's in it [here](http://docs.python.org/2/library/), as it is very well documented.
+
+###If You Really Want To Learn Something, Intend To Teach It
+
+1. Find your friend
+2. Teach them this code
+3. Share your Youtube video(or share pictures/text on the forum)
 
 ###Enhancing "Take a Break"
 
