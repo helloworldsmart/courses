@@ -74,6 +74,8 @@ soon.
     * [UD 617: Intro to Hadoop and MapReduce](#ud-617---intro-to-hadoop-and-mapreduce)
     * [UD 775: Version Control](#ud-775---version-control)
     * [UD 804: JavaScript Basics](#ud-804---javascript-basics)
+    * [UD 777: Writing Readmes 编寫 README 文件](#ud-777---Writing Readmes 编寫 README 文件)
+    
 
 ### In progress
 
@@ -192,3 +194,21 @@ soon.
     * Merge conflicts and other problems
 * Notable assignments:
     * N/A
+
+###### UD 777 - Writing Readmes 编寫 README 文件
+
+* Summary: A high-level overview of how Hadoop works and an introduction to writing MapReduce code.
+* Instructors: Sarah Sprohnele and Ian Wrigley of Cloudera
+* Prerequisites: Python programming experience
+* Topics covered:
+    * What "Big Data" is
+    * History of Hadoop
+    * Overview of Hadoop ecosystem
+    * Writing basic MapReduce code
+    * Common MapReduce design patterns
+* Notable assignments:
+    * Analyzing server logs
+    * Finding commonly used words on the Udacity forums
+* 心得:
+    * 喔喔, 哥大概會寫, 現在才認真學習這做啥
+    * Finding commonly used words on the Udacity forums
