@@ -212,3 +212,17 @@ soon.
 * 心得:
     * 喔喔, 哥大概會寫, 現在才認真學習這做啥
     * Finding commonly used words on the Udacity forums
+
+###### Growth mindset
+
+* Summary: Change Your word, Change your mindset.
+    * ~~I don’t understand.~~             ->  What am I missing?
+    * ~~I give up.~~                      ->  I'll use some of the strategies I've learned.
+    * ~~I made a mistake.~~               ->   Mistakes help me improve.
+    * ~~This is too hard.~~               ->  This may take some time and effort.
+    * ~~It's good enough.~~               ->  Is this really my best work?
+    * ~~I'll never be as smart as her.~~  ->  I'm going to figure out what she does and try it.
+    * ~~I can't make this any better.~~   ->  I can always improve. I'll keep trying!
+    * ~~I can't read.~~                   ->  I'm going to train my brain in reading.
+    * ~~I'm not good at this.~~           ->  I'm on the right track.
+    
