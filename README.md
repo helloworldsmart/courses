@@ -75,7 +75,23 @@ soon.
     * [UD 775: Version Control](#ud-775---version-control)
     * [UD 804: JavaScript Basics](#ud-804---javascript-basics)
     * [UD 777: Writing Readmes 编寫 README 文件](#ud-777---Writing Readmes 编寫 README 文件)
-    
+
+**iOS Developer Nanodegree**
+
+* Udacity
+    * [ND 006: Beginning iOS App Development Nanodegree]()
+    * [UD 585: Intro to iOS App Development with swift]()
+    * [UD 788: UIkit Fundamentals]()
+    * [UD 421: iOS Networking With swift]()
+
+* Stanford
+    * [CS193p]()
+
+**Deep Learning & Machine learning**
+
+* Stanford
+
+* NTU
 
 ### In progress
 
